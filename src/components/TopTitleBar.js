@@ -6,7 +6,7 @@ function TopTitleBar(props) {
     <>
         <div className="flex justify-start my-2 ml-2 items-center font-bold">
             <ReturnBtn />
-            <h4 className='ml-16'>{props.children}</h4>
+            <h4 className='translate-x-3/4'>{props.children}</h4>
         </div>
     </>
   )

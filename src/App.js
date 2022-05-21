@@ -8,7 +8,7 @@ function App() {
     <>
       <TopNavBar />
       <NewBookUpload />
-      <BottomNavBar />
+      <BottomNavBar src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522930314l/39723226._SY475_.jpg" alt="The birthday girl" />
     </>
   );
 }
